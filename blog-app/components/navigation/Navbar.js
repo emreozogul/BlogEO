@@ -38,6 +38,7 @@ const Navbar = () => {
                         </details>
                     </li>
                 </ul>
+                <div></div>
                 <ThemeSwitcher />
 
 
